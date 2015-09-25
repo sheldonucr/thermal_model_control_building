@@ -1,0 +1,1148 @@
+
+ Meters for 16,MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 77,MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 98,MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 119,MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 140,MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 161,MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 182,MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 203,MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 224,MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 255,MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 266,MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 277,MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 288,MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 299,MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 310,MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 321,MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=0:InteriorEquipment:Electricity [J]
+
+ Meters for 332,MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J]
+
+ Meters for 383,MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J]
+
+ Meters for 406,MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J]
+
+ Meters for 427,MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J]
+
+ Meters for 440,MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J]
+
+ Meters for 461,MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J]
+
+ Meters for 474,MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J]
+
+ Meters for 495,MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J]
+
+ Meters for 508,MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J]
+
+ Meters for 529,MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J]
+
+ Meters for 542,MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J]
+
+ Meters for 563,MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J]
+
+ Meters for 576,MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J]
+
+ Meters for 597,MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J]
+
+ Meters for 610,MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J]
+
+ Meters for 631,MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J]
+
+ Meters for 644,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 675,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 706,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 737,FURNACE_DX_A_B_G_L SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 768,FURNACE_DX_B_C_H_G SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 769,FURNACE_DX_C_D_I_H SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 770,FURNACE_DX_D_E_J_I SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 771,FURNACE_DX_E_F_K_J SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 772,FURNACE_DX_L_K_F_A SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 773,FURNACE_DX_G_H_I_L SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 774,FURNACE_DX_I_J_K_L SUPPLY FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 775,FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 797,FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 828,FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 839,FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 840,FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 842,FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 843,FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 844,FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 845,FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 847,FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 848,FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 849,FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 850,FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 852,FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 853,FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 854,FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 855,FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 857,FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 858,FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 859,FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 860,FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 862,FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 863,FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 864,FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 865,FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 867,FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 868,FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 869,FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 870,FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Air Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 872,FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 873,FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 874,FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 876,FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 887,FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 899,FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 900,FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 902,FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 903,FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 905,FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 906,FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 908,FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 909,FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 911,FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 912,FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 914,FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 915,FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 917,FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 918,FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 919,FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 930,FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 931,FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 932,FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 933,FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 934,FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 935,FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 936,FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 937,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 958,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 959,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+  FURNACE_DX_A_B_G_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_B_C_H_G SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_C_D_I_H SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_D_E_J_I SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_E_F_K_J SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_L_K_F_A SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_G_H_I_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_I_J_K_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+
+ For Meter=GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  MAIN_ZONE_A_B_G_L_LITE:Lights Electric Energy
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L_LITE:Lights Electric Energy
+
+ For Meter=Electricity:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=Electricity, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L_LITE:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=0:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MAIN_ZONE_A_B_G_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L_ELEC:Electric Equipment Electric Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_A_B_G_L [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_A_B_G_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_B_C_H_G [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_B_C_H_G:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_C_D_I_H [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_C_D_I_H:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_D_E_J_I [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_D_E_J_I:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_E_F_K_J [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_E_F_K_J:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_L_K_F_A [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_L_K_F_A:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_G_H_I_L [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_G_H_I_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MAIN_ZONE_I_J_K_L [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MAIN_ZONE_I_J_K_L:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  FURNACE_DX_A_B_G_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_B_C_H_G SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_C_D_I_H SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_D_E_J_I SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_E_F_K_J SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_L_K_F_A SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_G_H_I_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_I_J_K_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Electric Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  FURNACE_DX_A_B_G_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_B_C_H_G SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_C_D_I_H SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_D_E_J_I SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_E_F_K_J SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_L_K_F_A SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_G_H_I_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_I_J_K_L SUPPLY FAN:Fan Electric Energy
+
+ For Meter=General:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  FURNACE_DX_A_B_G_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_B_C_H_G SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_C_D_I_H SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_D_E_J_I SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_E_F_K_J SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_L_K_F_A SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_G_H_I_L SUPPLY FAN:Fan Electric Energy
+  FURNACE_DX_I_J_K_L SUPPLY FAN:Fan Electric Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Air Heating Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Air Heating Energy
+
+ For Meter=Gas:Facility [J], ResourceType=Gas, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Gas:HVAC [J], ResourceType=Gas, Group=HVAC, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Heating:Gas [J], ResourceType=Gas, EndUse=Heating, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Ancillary Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Gas Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  FURNACE_DX_A_B_G_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_B_C_H_G HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_C_D_I_H HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_D_E_J_I HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_E_F_K_J HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_L_K_F_A HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_G_H_I_L HEATING COIL:Heating Coil Electric Energy
+  FURNACE_DX_I_J_K_L HEATING COIL:Heating Coil Electric Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Total Cooling Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Electric Energy
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  FURNACE_DX_A_B_G_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_B_C_H_G COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_C_D_I_H COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_D_E_J_I COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_E_F_K_J COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_L_K_F_A COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_G_H_I_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+  FURNACE_DX_I_J_K_L COOLING COIL:Cooling Coil Crankcase Heater Electric Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

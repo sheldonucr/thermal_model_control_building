@@ -1,0 +1,53 @@
+{
+    "seq_label_column": "month",
+    "test_seqno":       [1,2,3,4,5,6,    9,10,11,12],
+    "validation_seqno": [            7,8           ],
+
+    "input_tsv_path": "data/2zone_hvac.tsv",
+
+    "output_scalar_label": "ambient",
+
+    "interested_columns": [
+        "period4", "week", "month", "day", "hour", "ambient",
+        "t_w", "t_e",
+        "hvac_w", "hvac_e"
+    ],
+
+    "input_columns": ["ambient",
+        "hvac_w", "hvac_e"
+    ],
+
+    "output_columns": ["t_w", "t_e"],
+
+    "visualized_columns": {
+        "input": ["ambient"],
+        "output": ["t_w", "t_e"]
+    },
+
+    "data_scales": {
+        "week": [0, 1],
+        "period4": [0, 1],
+        "month": [6.5, 3.5],
+        "day": [15, 8],
+        "hour": [12.5, 7],
+        "ambient": [20, 5],
+        "t_w": [20, 5],
+        "t_e": [20, 5],
+        "lf_w": [75, 110],
+        "lf_e": [75, 110],
+        "pwr_w": [-1880, 1650],
+        "pwr_e": [-1880, 1650],
+        "hg_w": [51300, 7800],
+        "hg_e": [51300, 7800],
+        "crz_w": [50000, 8000],
+        "crz_e": [50000, 8000],
+        "crp_w": [3500, 1200],
+        "crp_e": [3500, 1200],
+        "hvac_w": [75, 70],
+        "hvac_e": [75, 70]
+    },
+
+    "epochs_per_update": 10,
+
+    "visualize_on_training": "no"
+}

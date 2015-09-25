@@ -1,0 +1,3 @@
+http://apps1.eere.energy.gov/buildings/energyplus/weatherdata_about.cfm
+
+California: http://apps1.eere.energy.gov/buildings/energyplus/cfm/weather_data3.cfm/region=4_north_and_central_america_wmo_region_4/country=1_usa/cname=USA#CA

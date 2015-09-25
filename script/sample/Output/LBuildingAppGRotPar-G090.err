@@ -1,0 +1,51 @@
+Program Version,EnergyPlus-Linux-64 8.1.0.009, YMD=2015.05.11 16:22,IDD_Version 8.1.0.009
+   ** Warning ** Output:PreprocessorMessage="ExpandObjects" has the following Warning condition:
+   **   ~~~   ** Cannot find Energy+.idd as specified in Energy+.ini.
+   ** Warning ** Output:PreprocessorMessage="ExpandObjects" has the following Warning conditions:
+   **   ~~~   ** Since the Energy+.IDD file cannot be read no range or choice checking was
+   **   ~~~   ** performed.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** Weather file location will be used rather than entered (IDF) Location object.
+   **   ~~~   ** ..Location object=CHICAGO_IL_USA TMY2-94846
+   **   ~~~   ** ..Weather File Location=San Francisco Intl Ap CA USA TMY3 WMO#=724940
+   **   ~~~   ** ..due to location differences, Latitude difference=[4.16] degrees, Longitude difference=[34.65] degrees.
+   **   ~~~   ** ..Time Zone difference=[2.0] hour(s), Elevation difference=[98.95] percent, [188.00] meters.
+   ** Warning ** CheckUsedConstructions: There are 2 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ************* Beginning System Sizing Calculations
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed "FURNACE_DX_E_F_K_J COOLING COIL" - Full load outlet air dry-bulb temperature < 2C. This indicates the possibility of coil frost/freeze. Outlet temperature = 1.28 C.
+   **   ~~~   **  ...Occurrence info = San Francisco Intl Ap CA USA TMY3 WMO#=724940, 03/14 15:45 - 16:00
+   **   ~~~   ** ... Possible reasons for low outlet air dry-bulb temperatures are: This DX coil
+   **   ~~~   **    1) may have a low inlet air dry-bulb temperature. Inlet air temperature = 19.602 C.
+   **   ~~~   **    2) may have a low air flow rate per watt of cooling capacity. Check inputs.
+   **   ~~~   **    3) is used as part of a HX assisted cooling coil which uses a high sensible effectiveness. Check inputs.
+   ************* Simulation Error Summary *************
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed="FURNACE_DX_E_F_K_J COOLING COIL" - Full load outlet temperature indicates a possibility of frost/freeze error continues. Outlet air temperature statistics follow:
+   *************  **   ~~~   **   This error occurred 74 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=1.960814  Min=-2.911242
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 2 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 78 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 11.35sec

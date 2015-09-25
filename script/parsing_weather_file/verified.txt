@@ -1,0 +1,28 @@
+Weather from March 29, 1994 at San Francisco: http://www.wunderground.com/history/airport/KSFO/1994/3/29/DailyHistory.html?req_city=San+Francisco&req_state=CA&req_statename=California&reqdb.zip=94101&reqdb.magic=1&reqdb.wmo=99999&MR=1
+Weather on Jan 1, 1999 at San Francisco: http://www.wunderground.com/history/airport/KSFO/1999/1/1/DailyHistory.html?req_city=San+Francisco&req_state=CA&req_statename=California&reqdb.zip=94101&reqdb.magic=1&reqdb.wmo=99999
+
+We can verify the temperature of the epw file with the two links above.
+
+First open the .epw file. There is a huge table under the line that starts with: 'DATA PERIODS,'
+In that table, the data is seperated by commas. The 7th data on each line is the 'Dry-Bulb Temperature'
+given in Celsius for the given YYYY/MM/DD HH:MM. For example:
+
+In 'USA_CA_San.Francisco.Intl.AP.724940_TMY3.epw' file, the first 6 lines under 'DATA PERIODS,' are:
+
+1999,1,1,1,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,7.2,5.6,90,102200,0,0,290,0,0,0,0,0,0,0,0,0.0,2,2,16.0,77777,9,999999999,129,0.1080,0,88,0.160,0.0,1.0
+1999,1,1,2,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,7.2,5.6,90,102100,0,0,296,0,0,0,0,0,0,0,170,2.1,4,4,16.0,77777,9,999999999,120,0.1080,0,88,0.160,0.0,1.0
+1999,1,1,3,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,6.7,5.0,89,102200,0,0,291,0,0,0,0,0,0,0,210,2.1,3,3,16.0,77777,9,999999999,120,0.1080,0,88,0.160,0.0,1.0
+1999,1,1,4,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,6.1,5.0,93,102200,0,0,276,0,0,0,0,0,0,0,200,1.5,0,0,16.0,77777,9,999999999,120,0.1080,0,88,0.160,0.0,1.0
+1999,1,1,5,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,4.4,3.9,97,102200,0,0,280,0,0,0,0,0,0,0,260,3.1,3,3,16.0,77777,9,999999999,120,0.1080,0,88,0.160,0.0,1.0
+1999,1,1,6,0,?9?9?9?9E0?9?9?9?9?9?9?9?9?9?9?9?9?9?9?9*9*9?9?9?9,4.4,3.9,97,102200,0,0,280,0,0,0,0,0,0,0,180,2.1,3,3,16.0,77777,9,999999999,120,0.1080,0,88,0.160,0.0,1.0
+
+For the first line, it corresponds to January 1st, 1999 at 1:00am and the Dry-Bulb Temperature for it is: 7.2 C.
+This corresponds to roughly 45 degrees Fahrenheit. You can verify this value with the second link above.
+
+For the second line, it corrseponds to Jan. 1, 1999 @ 2:00am and the Dry-Bulb Temperature is: 7.2 C.
+
+If you are looking for the ground temperature (a probe stuck into the ground surface), it is measured only
+once a month which can be found on the same line as : ' GROUND TEMPERATURES,3,.5,,,,10.86,10.57,11.08,11.88,13.97,15.58,16.67,17.00,16.44,15.19,13.51,11.96,2,, ...'
+After the 6th comma, is the ground temperature in celsius for January. Then after that is Feb. and on..
+
+You can further decrypt the .epw file from the pdf in this repository named: weatherdatainformation.pdf

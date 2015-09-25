@@ -1,0 +1,40 @@
+Order 40
+
+testing_relative_rmse =
+
+    0.0402    0.0398    0.0483    0.0429    0.0475
+
+
+testing_max_relative_error =
+
+    0.2188    0.2230    0.2871    0.2470    0.3282
+
+
+testing_absolute_rmse =
+
+    0.3297    0.3620    0.2742    0.2919    0.1900
+
+
+testing_max_absolute_error =
+
+    1.7938    2.0272    1.6310    1.6794    1.3117
+
+
+valid_relative_rmse =
+
+    0.0748    0.0815    0.0688    0.0688    0.0794
+
+
+valid_max_relative_error =
+
+    0.4459    0.5058    0.2941    0.3165    0.3560
+
+
+valid_absolute_rmse =
+
+    0.7247    0.7520    0.3947    0.4352    0.3187
+
+
+valid_max_absolute_error =
+
+    4.3228    4.6669    1.6876    2.0009    1.4297

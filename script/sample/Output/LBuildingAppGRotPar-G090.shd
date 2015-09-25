@@ -1,0 +1,446 @@
+ Shadowing Combinations
+..Solar Distribution=FullInteriorAndExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+ ==================================
+ Surface=MAIN_EXTWALL_A_B is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_L_G
+ ...Surface=FOUNDATION_MAIN_ZONE_A_B_G_L
+ ...Surface=ROOFABOVE_MAIN_ZONE_A_B_G_L
+ Number of receiving sub surfaces=           8
+ ....Surface=MAIN_WINDOW_A_B_1_1
+ ....Surface=MAIN_WINDOW_A_B_1_2
+ ....Surface=MAIN_WINDOW_A_B_1_3
+ ....Surface=MAIN_WINDOW_A_B_1_4
+ ....Surface=MAIN_WINDOW_A_B_1_5
+ ....Surface=MAIN_WINDOW_A_B_1_6
+ ....Surface=MAIN_WINDOW_A_B_1_7
+ ....Surface=MAIN_WINDOW_A_B_1_8
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_4 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_5 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_6 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_7 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_A_B_1_8 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_L_G is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_A_B_G_L is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_A_B_G_L is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_A_B_G_L_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_A_B_G_L_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_EXTWALL_B_C is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_G_H
+ ...Surface=FOUNDATION_MAIN_ZONE_B_C_H_G
+ ...Surface=ROOFABOVE_MAIN_ZONE_B_C_H_G
+ Number of receiving sub surfaces=           3
+ ....Surface=MAIN_WINDOW_B_C_1_1
+ ....Surface=MAIN_WINDOW_B_C_1_2
+ ....Surface=MAIN_WINDOW_B_C_1_3
+ ==================================
+ Surface=MAIN_WINDOW_B_C_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_B_C_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_B_C_1_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_G_H is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_B_C_H_G is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_B_C_H_G is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_B_C_H_G_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_B_C_H_G_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_EXTWALL_C_D is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=MAIN_EXTWALL_D_E
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_H_I
+ ...Surface=FOUNDATION_MAIN_ZONE_C_D_I_H
+ ...Surface=ROOFABOVE_MAIN_ZONE_C_D_I_H
+ Number of receiving sub surfaces=           7
+ ....Surface=MAIN_WINDOW_C_D_1_1
+ ....Surface=MAIN_WINDOW_C_D_1_2
+ ....Surface=MAIN_WINDOW_C_D_1_3
+ ....Surface=MAIN_WINDOW_C_D_1_4
+ ....Surface=MAIN_WINDOW_C_D_1_5
+ ....Surface=MAIN_WINDOW_C_D_1_6
+ ....Surface=MAIN_WINDOW_C_D_1_7
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_4 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_5 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_6 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_C_D_1_7 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_H_I is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_C_D_I_H is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_C_D_I_H is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_C_D_I_H_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_C_D_I_H_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_EXTWALL_D_E is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=MAIN_EXTWALL_C_D
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_I_J
+ ...Surface=FOUNDATION_MAIN_ZONE_D_E_J_I
+ ...Surface=ROOFABOVE_MAIN_ZONE_D_E_J_I
+ Number of receiving sub surfaces=           3
+ ....Surface=MAIN_WINDOW_D_E_1_1
+ ....Surface=MAIN_WINDOW_D_E_1_2
+ ....Surface=MAIN_WINDOW_D_E_1_3
+ ==================================
+ Surface=MAIN_WINDOW_D_E_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_D_E_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_D_E_1_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_I_J is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_D_E_J_I is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_D_E_J_I is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_D_E_J_I_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_D_E_J_I_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_EXTWALL_E_F is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_J_K
+ ...Surface=FOUNDATION_MAIN_ZONE_E_F_K_J
+ ...Surface=ROOFABOVE_MAIN_ZONE_E_F_K_J
+ Number of receiving sub surfaces=           4
+ ....Surface=MAIN_WINDOW_E_F_1_1
+ ....Surface=MAIN_WINDOW_E_F_1_2
+ ....Surface=MAIN_WINDOW_E_F_1_3
+ ....Surface=MAIN_WINDOW_E_F_1_4
+ ==================================
+ Surface=MAIN_WINDOW_E_F_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_E_F_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_E_F_1_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_E_F_1_4 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_J_K is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_E_F_K_J is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_E_F_K_J is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_E_F_K_J_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_E_F_K_J_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_EXTWALL_F_A is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           3
+ ...Surface=MAIN_INTWALL_K_L
+ ...Surface=FOUNDATION_MAIN_ZONE_L_K_F_A
+ ...Surface=ROOFABOVE_MAIN_ZONE_L_K_F_A
+ Number of receiving sub surfaces=           2
+ ....Surface=MAIN_WINDOW_F_A_1_1
+ ....Surface=MAIN_WINDOW_F_A_1_2
+ ==================================
+ Surface=MAIN_WINDOW_F_A_1_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_WINDOW_F_A_1_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_K_L is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_L_K_F_A is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_L_K_F_A is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_L_K_F_A_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_L_K_F_A_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_G_H_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_H_I_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_L_G_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_L_I is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_G_H_I_L is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_G_H_I_L is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_G_H_I_L_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_G_H_I_L_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_I_J_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_J_K_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_K_L_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_INTWALL_L_I_MIRROR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=FOUNDATION_MAIN_ZONE_I_J_K_L is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=ROOFABOVE_MAIN_ZONE_I_J_K_L is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_I_J_K_L_FURNITURE1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=MAIN_ZONE_I_J_K_L_FURNITURE2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
